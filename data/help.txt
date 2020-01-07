@@ -1,0 +1,21 @@
+Instructions to how to play the Game.
+
+1) When you click the 'GO' button, you will be asked to select the Level.
+2) The appropiate game setting will load after selecting the level.
+3) You can go back at any time.
+
+Gameplay Rules:
+
+1) You can only make a one move at a time.
+2) To go Forward press 'W' key.
+3) To go Left press 'A' key.
+4) To go Backward press 'S' key.
+5) To go Right press 'D' key.
+6) If you move to a point besides the face of the arrow, you die.
+7) To kill an arrow you have to reach the point of arrow from direction against the face of the arrow.
+8) You can only reach the goal when you kill all the arrows.
+9) Every kill gives you a 100 points.
+10) When you die in a game you will be asked to enter your name to record your score.
+11) At the end of the 3rd level you will be aske to enter your name to record your score.
+12) To exit the game click exit from the Homescreen.
+13) You can also check the leaderboard by clicking the 'Ranks' button.
